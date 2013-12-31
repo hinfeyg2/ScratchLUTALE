@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<scratch version="7.0"> 
+  <command no_shot_required="N" minimize_on_exe="Y" enter_player="N" export_xml="N"> 
+    <title>win-app</title>
+    <cmdline>c:\Windows\System32\mspaint.exe</cmdline> 
+  </command> 
+  <command no_shot_required="N" minimize_on_exe="N" enter_player="Y" export_xml="N" preset="c:\myPresets\myEffect.pls" target="display"> 
+    <title>plug-in </title> 
+    <cmdline>pi-identifier</cmdline> 
+  </command> 
+  <command no_shot_required="N" minimize_on_exe="N" enter_player="N" export_xml="Y"> 
+    <title>webpage</title> 
+    <cmdline>http://www. assimilateinc.com/test.php</cmdline> 
+  </command> 
+<!-- you can specify up to 15 buttons --> 
+
+</scratch> 
